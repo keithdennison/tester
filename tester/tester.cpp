@@ -1,7 +1,7 @@
 // tester.cpp : Defines the entry point for the console application.
 //
 
-// TODO: COnvert to cross platform
+// TODO: Convert to cross platform
 
 #include "stdafx.h"
 
