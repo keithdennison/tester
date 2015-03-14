@@ -1,6 +1,8 @@
 // tester.cpp : Defines the entry point for the console application.
 //
 
+// TODO: COnvert to cross platform
+
 #include "stdafx.h"
 
 using namespace std;
