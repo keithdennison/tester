@@ -2,8 +2,10 @@
 //
 
 // TODO: Convert to cross platform
-
+#ifdef _WIN32
 #include "stdafx.h"
+#endif
+
 
 using namespace std;
 
